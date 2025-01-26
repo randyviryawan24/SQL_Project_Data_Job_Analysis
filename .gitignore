@@ -1,3 +1,4 @@
 /.vscode
 /New Text Document.txt
 /all_folders
+all_folders/csv_files/*.csv
