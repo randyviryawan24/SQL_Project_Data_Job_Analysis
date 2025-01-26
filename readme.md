@@ -44,7 +44,7 @@ ORDER BY salary_year_avg DESC
 LIMIT 10
 ``` 
 
-![Top Paying Roles](assets\Figure_1.png)
+![Top Paying Roles](assets/Figure_1.png)
 *Bar Chart Top Paying Roles*
 
 ### 2. Skills for Top Paying Jobs
@@ -170,7 +170,7 @@ ORDER BY num_jobs DESC
 LIMIT 5
 ```
 
-![In-Demand Skills](assets\Figure_3.png)
+![In-Demand Skills](assets/Figure_3.png)
 *Bar Chart In-Demand Skills for Data Analyst*
 ### 4. Skills Based on Salary
 Exploring the average salaries associated with different skills revealed which skills are the highest paying.
